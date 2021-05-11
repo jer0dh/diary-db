@@ -7,5 +7,19 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "events": [
+      {
+          "date": "05-10-2021",
+          "time": "12:34",
+          "item": "coffee",
+          "amount": "medium"
+      },
+       {
+          "date": "05-10-2021",
+          "time": "12:34",
+          "item": "coffee",
+          "amount": "medium"
+      }
+  ]
 }
