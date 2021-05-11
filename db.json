@@ -10,12 +10,14 @@
   },
   "events": [
       {
+          "id": "1",
           "date": "05-10-2021",
           "time": "12:34",
           "item": "coffee",
           "amount": "medium"
       },
        {
+           "id": "2",
           "date": "05-10-2021",
           "time": "12:34",
           "item": "coffee",
